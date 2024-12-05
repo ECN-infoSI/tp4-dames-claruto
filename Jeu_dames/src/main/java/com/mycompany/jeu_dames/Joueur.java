@@ -173,6 +173,8 @@ public class Joueur {
 
         System.out.println("Pion sélectionné : " + peonTrouve);
         
+        System.out.println("Quelle coordonnée souhaitez-vous déplacer ce pion ?");
+        
         int nouvelleColonne = 0;
         int nouvelleLigne = 0;
         
