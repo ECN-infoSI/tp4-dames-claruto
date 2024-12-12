@@ -30,7 +30,5 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.jeu_dames.Jeu_dames</exec.mainClass>
-        <sonar.organization>pilarcargo</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 </project>
